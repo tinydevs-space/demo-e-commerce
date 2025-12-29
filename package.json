@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tinydevs-space.github.io/demo-landing-page/",
+  "homepage": "https://tinydevs-space.github.io/demo-e-commerce/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
